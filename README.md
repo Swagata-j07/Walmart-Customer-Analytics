@@ -23,14 +23,9 @@ Regional and Category Trends
 
 | Table of Contents |
 | ------ | ----------- |
-| Task |
-| Solution Approach |
-| Desired Results |
-| Key Technical Questions |
-| Key Business Questions |
-| Key Findings |
-| Dashboard Development |
-| Conclusion |
+| Task | actions taken through market study
+| Solution Approach | data analyzing, cleaning, insights
+
 
 ## Tables
 
