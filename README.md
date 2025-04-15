@@ -25,7 +25,7 @@ Regional and Category Trends
 | ------ | ----------- |
 | Task | actions taken through market study
 | Solution Approach | data analyzing, cleaning, insights
-| Desired Results | 
+| Desired Results | the outcome after thorough analyzing
 | Key Technical Questions | analyzing the trends, insights
 | Key Business Questions | analyzing the business context
 | Key Findings | key insights to answer core questions
