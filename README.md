@@ -21,7 +21,7 @@ Regional and Category Trends
 
 ### Index
 
-| Table of Contents |
+| Table of Contents | Description
 | ------ | ----------- |
 | Task | actions taken through market study
 | Solution Approach | data analyzing, cleaning, insights
