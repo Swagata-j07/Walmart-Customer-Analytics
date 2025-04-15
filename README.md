@@ -25,10 +25,12 @@ Regional and Category Trends
 | ------ | ----------- |
 | Task | actions taken through market study
 | Solution Approach | data analyzing, cleaning, insights
+| Desired Results | 
+| Key Technical Questions | analyzing the trends, insights
+| Key Business Questions | analyzing the business context
+| Key Findings | key insights to answer core questions
+| Dashboard Development | making insights into visuals
+| Conclusion | the final recommendation
 
 
-## Tables
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
