@@ -19,13 +19,15 @@ Regional and Category Trends
 
 ## The Solutions: What can you expect inside the PDF?
 
-### 📋 Table of Contents
+### Index
 
-- [Task](actions)
-- [Solution Approach](https://www.notion.so/Job-application-1cc6aa0a227c80be961ff3db5bc753b9?pvs=21)
-- [Desired Results](results)
-- [Key Technical Questions]()
-- [Key Business Questions](https://www.notion.so/Job-application-1cc6aa0a227c80be961ff3db5bc753b9?pvs=21)
-- [Key Findings](https://www.notion.so/Job-application-1cc6aa0a227c80be961ff3db5bc753b9?pvs=21)
-- [Dashboard Development](https://www.notion.so/Job-application-1cc6aa0a227c80be961ff3db5bc753b9?pvs=21)
-- [Conclusion](https://www.notion.so/Job-application-1cc6aa0a227c80be961ff3db5bc753b9?pvs=21)
+| Table of Contents |
+| ------ | ----------- |
+| Task |
+| Solution Approach |
+| Desired Results |
+| Key Technical Questions |
+| Key Business Questions |
+| Key Findings |
+| Dashboard Development |
+| Conclusion |
